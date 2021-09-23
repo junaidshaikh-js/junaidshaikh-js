@@ -4,9 +4,12 @@
 [![](https://img.shields.io/github/followers/junaidshaikh-js?label=GitHub%20Followers)](https://github.com/junaidshaikh-js)
 
 
-## Github Stats
+## Github Stats ⚡
 
 ![Junaid Shaikh's Github Stats](https://github-readme-stats.vercel.app/api?username=junaidshaikh-js&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidshaikh-js)]
+
   
 
 ## Let's Connect 🔗
