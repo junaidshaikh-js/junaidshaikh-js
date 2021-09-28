@@ -27,4 +27,4 @@
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/React-bc3592?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-822bba?style=for-the-badge&logo=jQuery&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-81e20c?style=for-the-badge&logo=MongoDB&logoColor=black)
+![](https://img.shields.io/badge/MongoDB-81e20c?style=for-the-badge&logo=MongoDB&logoColor=white&color=black)
