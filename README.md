@@ -25,6 +25,6 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/React-bc3592?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-#9ecdab?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-822bba?style=for-the-badge&logo=jQuery&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
